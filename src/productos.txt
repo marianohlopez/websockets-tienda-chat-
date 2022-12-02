@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Escuadra",
+    "price": 123.45,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/ruler-triangle-stationary-school-256.png",
+    "id": 1
+  },
+  {
+    "title": "Calculadora",
+    "price": 234.56,
+    "thumbnail": "https://cdn3.iconfinder.com/data/icons/education-209/64/calculator-math-tool-school-256.png",
+    "id": 2
+  },
+  {
+    "title": "Computadora",
+    "price": 345.67,
+    "thumbnail": "https://media.istockphoto.com/id/1209901819/es/vector/el-ordenador-port%C3%A1til-muestra-la-ilustraci%C3%B3n-de-diagramas-de-colores.jpg?s=612x612&w=is&k=20&c=zJMhXEVlFSMoIndlIRQqo9MXdvqLCWpv0e9gX-ysP-c=",
+    "id": 3
+  },
+  {
+    "title": "Teclado",
+    "price": 900,
+    "thumbnail": "https://media.istockphoto.com/id/1360641644/es/vector/ilustraci%C3%B3n-vectorial-isom%C3%A9trica-moderna-de-teclado-y-rat%C3%B3n-de-ordenador.jpg?s=612x612&w=is&k=20&c=kGE2WRwqbC748MH9H9HteUETw3VdKiUFekIa_ixeaRc=",
+    "id": 4
+  },
+  {
+    "title": "Regla",
+    "price": 345.67,
+    "thumbnail": "https://www.shutterstock.com/image-vector/school-measuring-plastic-ruler-20-260nw-615662024.jpg",
+    "id": 5
+  }
+]
